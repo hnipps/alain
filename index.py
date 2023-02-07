@@ -1,5 +1,5 @@
 from langchain.llms import OpenAI
-from langchain import PromptTemplate, HuggingFaceHub, LLMChain
+from langchain import PromptTemplate, LLMChain
 from telegram.ext import filters, MessageHandler, ApplicationBuilder, CommandHandler, ContextTypes
 from telegram import Update
 import os
