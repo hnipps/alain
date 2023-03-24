@@ -15,13 +15,13 @@ httpcore==0.16.3
 httpx==0.23.3
 huggingface-hub==0.12.0
 idna==3.4
-langchain==0.0.78
+langchain==0.0.122
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
 multidict==6.0.4
 mypy-extensions==1.0.0
 numpy==1.24.2
-openai==0.26.4
+openai==0.27.2
 packaging==23.0
 pycodestyle==2.10.0
 pydantic==1.10.4
